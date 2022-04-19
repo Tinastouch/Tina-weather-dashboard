@@ -28,12 +28,13 @@ Visual code: To write HTML, CSS and JS
 2. Create html
 3. connected weather api
 4. We designed the css
-4
 
 
-#Project (Partial)
+
+#Project
 
 URL of the deployed application
-URL of the GitHub repository
 
-By Tina Sutherland and Constance
+https://tinastouch.github.io/Tina-weather-dashboard/
+
+By Tina Sutherland 
